@@ -4,4 +4,4 @@ Console.WriteLine("ชื่อ นาย กฤตชวกร ชวลิต�
 // id
 Console.WriteLine("653450279-6");
 // e-mail
-Console.WriteLine("าitchawakon.c@kkumail.com");
+Console.WriteLine("kitchawakon.c@kkumail.com");
